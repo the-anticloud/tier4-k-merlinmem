@@ -1,0 +1,67 @@
+{
+  "benchmark": "HF_Leaderboard_Lab_Results",
+  "project": "K_MERLINMEM",
+  "tier": "TIER_4_INFERENCE_AGENTS",
+  "slug": "mem0ai/mem0",
+  "commit": "94c3fe9f238f",
+  "run_timestamp": "2026-09-30T15:07:07.146295+00:00",
+  "isolation": {
+    "environment": "local",
+    "model": "distilbert-base-uncased",
+    "hf_model_load_time_sec": 4.42,
+    "platform": "win32",
+    "python": "3.12.10"
+  },
+  "results": {
+    "framework": "HuggingFace Open LLM Leaderboard (proxy via distilbert-base-uncased)",
+    "source": "https://huggingface.co/docs/leaderboards/en/open_llm_leaderboard/archive",
+    "model_used": "distilbert-base-uncased",
+    "note": "Full MMLU/HellaSwag/TruthfulQA/ARC/Winogrande/GSM8K require GPU. Proxy: inference latency.",
+    "samples_run": 5,
+    "latency_ms": {
+      "avg": 49.01,
+      "min": 43.53,
+      "max": 56.0,
+      "all": [
+        56.0,
+        51.51,
+        47.97,
+        46.03,
+        43.53
+      ]
+    },
+    "status": "PASS",
+    "tokenization": {
+      "model": "distilbert-base-uncased",
+      "input_text": "K_MERLINMEM (mem0ai/mem0) \u2014 1836 files, 237714 source lines, licence Apache-2.0, primary language ['TypeScript']",
+      "token_count": 42,
+      "tokens_preview": [
+        "[CLS]",
+        "k",
+        "_",
+        "merlin",
+        "##me",
+        "##m",
+        "(",
+        "me",
+        "##m",
+        "##0",
+        "##ai",
+        "/",
+        "me",
+        "##m",
+        "##0",
+        ")",
+        "\u2014",
+        "1836",
+        "files",
+        ","
+      ],
+      "tokenization_latency_ms": 1.0,
+      "classification_label": "LABEL_0",
+      "classification_score": 0.5847,
+      "classification_latency_ms": 103.54,
+      "status": "PASS"
+    }
+  }
+}

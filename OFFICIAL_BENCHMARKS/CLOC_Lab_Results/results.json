@@ -1,0 +1,22 @@
+{
+  "benchmark": "CLOC_Lab_Results",
+  "project": "K_MERLINMEM",
+  "run_timestamp": "2026-09-30T17:14:20.030944+00:00",
+  "source": "https://github.com/AlDanial/cloc",
+  "results": {
+    "framework": "CLOC \u2014 Count Lines of Code (via project_facts.json)",
+    "source": "https://github.com/AlDanial/cloc",
+    "total_files": 1836,
+    "total_source_lines": 237714,
+    "languages": {
+      "TypeScript": 591,
+      "Python": 420,
+      "JavaScript": 26,
+      "Shell": 6
+    },
+    "primary_language": "TypeScript",
+    "language_count": 4,
+    "lines_per_file": 129.5,
+    "status": "PASS"
+  }
+}

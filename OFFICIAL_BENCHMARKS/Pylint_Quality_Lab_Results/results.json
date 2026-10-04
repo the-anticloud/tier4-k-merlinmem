@@ -1,0 +1,15 @@
+{
+  "benchmark": "Pylint_Quality_Lab_Results",
+  "project": "K_MERLINMEM",
+  "run_timestamp": "2026-09-30T17:14:20.030944+00:00",
+  "source": "https://pylint.readthedocs.io/",
+  "results": {
+    "framework": "Pylint \u2014 Python Code Quality Analyzer",
+    "source": "https://pylint.readthedocs.io/",
+    "files_analyzed": 5,
+    "pylint_score": 7.48,
+    "pylint_score_max": 10.0,
+    "status": "PASS",
+    "raw_output": "************* Module mem0.exceptions\nTIER_4_INFERENCE_AGENTS\\K_MERLINMEM\\UPSTREAM\\mem0\\exceptions.py:57:0: C0303: Trailing whitespace (trailing-whitespace)\nTIER_4_INFERENCE_AGENTS\\K_MERLINMEM\\UPSTREAM\\mem0\\exceptions.py:81:0: C0303: Trailing whitespace (trailing-whitespace)\nTIER_4_INFERENCE_AGENTS\\K_MERLINMEM\\UPSTREAM\\mem0\\exceptions.py:318:90: C0303: Trailing whitespace (trailing-whitespace)\nTIER_4_INFERENCE_AGENTS\\K_MERLINMEM\\UPSTREAM\\mem0\\exceptions.py:319:97: C0303: Trailing whitespace (trailing-whitespace)\nTIER_4_INFERENCE_AGENTS\\K_MERLINMEM\\UPSTREAM\\mem0\\exceptions.py:340:89: C0303: Trailing whitespace (trailing-whitespace)\nTIER_4_INFERENCE_AGENTS\\K_MERLINMEM\\UPSTREAM\\mem0\\exceptions.py:341:85: C0303: Trailing whitespace (trailing-whitespace)\nTIER_4_INFERENCE_AGENTS\\K_MERLINMEM\\UPSTREAM\\mem0\\exceptions.py:360:87: C0303: Trailing whitespace (trailing-whitespace)\nTIER_4_INFERENCE_AGENTS\\K_MERLINMEM\\UPSTREAM\\mem0\\exceptions.py:361:85: C0303: Trailing whitespace (trailing-whitespace)\nTIER_4_INFERENCE_AGENTS\\K_MERLINMEM\\UPSTREAM\\mem0\\exceptions.py:380:86: C0303: Trailing whitespace (trailing-whitespace)\nTIER_4_INFERENCE_AGENTS\\K_MERLINMEM\\UPSTREAM\\mem0\\exceptions.py:381:93: C0303: Trailing whitespace (trailing-whitespace)\nTIER_4_INFERENCE_AGENTS\\K_MERLINMEM\\UPSTREAM\\mem0\\exceptions.py:400:88: C0303: Trailing whitespace (trailing-whitespace)\nTIER_4_INFERENCE_AGENTS\\K_MERLINMEM\\UPSTREAM\\mem0\\exceptions.py:401:78: C0303: Trailing whitespace (trailing-whitespace)\nTIER_4_INFERENCE_AGENTS\\K_MERLINMEM\\UPSTREAM\\mem0\\exceptions.py:455:0: C0303: Trailing whitespace (trailing-whitespace)\nTIER_4_INFERENCE_AGENTS\\K_MERLINMEM\\UPSTREAM\\mem0\\exceptions.py:459:0: C0303: Trailing whitespace (trailing-whitespace)\nTIER_4_INFERENCE_AGENTS\\K_MERLINMEM\\UPSTREAM\\mem0\\exceptions.py:476:0: C0303: Trailing whitespace (trailing-whitespace)\nTIER_4_INFERENCE_AGENTS\\K_MERLINMEM\\UPSTREAM\\mem0\\exceptions.py:478:0: C0303: Trailing whitespace (trailing-whitespace)\nTIER_4_INFERENCE_AGENTS\\K_MERLINMEM"
+  }
+}
